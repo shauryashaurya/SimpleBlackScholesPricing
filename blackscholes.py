@@ -7,9 +7,9 @@ from decimal import *
 u_price = 1.0
 #Strike price
 strike = 1.0
-#Days to expiration
+#Days to expiration / time to maturity
 time = 1.0
-#Current interest rate
+#Current (risk free) interest rate
 rate = 1.0
 #The implied volitility (the Sigma)
 sigma = 1.0
